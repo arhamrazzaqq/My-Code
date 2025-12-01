@@ -9,6 +9,6 @@ now = time_now.strftime("%H:%M:%S %m-%d-%Y")
 target_datetime = datetime.datetime(2030, 1, 2, 3, 4, 5)
 current_datetime = datetime.datetime.now()
 if target_datetime < current_datetime:
-    print("Target date has passed")
+    print("Target date has passed0")
 else:
-    print("Target date has passed")
+    print("Target date has passed1")

@@ -1,3 +1,2 @@
-"# My-Code" 
-"# My-Code" 
-"# My-Code" 
+Feel free to copy any code;)
+(PLEASE DO!)
