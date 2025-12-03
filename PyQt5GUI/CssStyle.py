@@ -40,14 +40,14 @@ class MainWindow(QMainWindow):
                     border-radius: 15px;
                 }
                 QPushButton#button1{
-                   background-color: RED;
+                   background-color: red;
                 }
                 QPushButton#button2{
                    background-color: green;
                 }
                 QPushButton#button3{
                    background-color: blue;
-                                  }
+                }
                          
              """)
          

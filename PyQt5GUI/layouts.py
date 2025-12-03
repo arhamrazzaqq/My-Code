@@ -34,7 +34,7 @@ class MainWindow(QMainWindow):
 
         vbox.addWidget(label1, 0, 0)
         vbox.addWidget(label2, 0, 1)
-        vbox.addWidget(label3, 1, 0) #you do not need to write rows or coloumn for H & V
+        vbox.addWidget(label3, 1, 0) #you do not need to write rows or coloumn for H & V 
         vbox.addWidget(label4, 1, 1)
         vbox.addWidget(label5, 2, 2)
 
