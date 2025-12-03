@@ -17,7 +17,7 @@ class MainWindow(QMainWindow):
                              "font-weight: bold;"
                              "text-decoration: underline")
          #Label.setAlignment(Qt.AlignTop)  #vertically top
-         #Label.setAlignment(Qt.AlignBottom) #vertically bottoj
+         Label.setAlignment(Qt.AlignBottom) #vertically bottoj
          #Label.setAlignment(Qt.AlignVCenter) #certically center
          #Label.setAlignment(Qt.AlignRight) #Horizontally right
          #Label.setAlignment(Qt.AlignHCenter) #Horizontally center

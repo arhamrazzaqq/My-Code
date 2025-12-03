@@ -11,6 +11,7 @@ class MainWindow(QMainWindow):
          self.setWindowTitle("Python GUI")
          self.setGeometry(700, 300, 500, 500)
          self.checkbox = QCheckBox("Do you Like food?", self)
+         self.checkbox1 = QCheckBox("Do you Like food?", self)
          self.initUI()
 
     def initUI(self):
